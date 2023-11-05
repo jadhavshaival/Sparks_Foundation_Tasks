@@ -1,3 +1,4 @@
 # Sparks_Foundation_Tasks
 
-Welcome to my repository for The Sparks Foundation Data Science Internship tasks! In this repository, you'll find all the projects and assignments I've completed as a Data Science Intern at The Sparks Foundation.
+
+In this repository, you will find folders corresponding to each task assigned by The Sparks Foundation. Each folder contains the task description, code files, datasets used, and any additional resources relevant to the project. Feel free to explore the tasks, check out the code, and provide feedback.
